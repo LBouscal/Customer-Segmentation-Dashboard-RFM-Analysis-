@@ -19,7 +19,8 @@ This Excel project performs RFM (Recency, Frequency, Monetary) analysis to segme
 [View Google Sheets File](https://docs.google.com/spreadsheets/d/1qg226AwylYDqjej89maWR5Fa1Ikx2uD26Swly2Oc20k/edit#gid=0)
 
 ## 🖼️ Screenshot
-![RFM Customer Segmentation Dashboard](dashboard_screenshot.png)
+![Screenshot 2025-05-20 at 9 42 58 PM](https://github.com/user-attachments/assets/3daa92ed-8540-4f1c-a16f-4ce95bb1a9ed)
+
 
 ## 🗒️ Notes
 This project was completed as part of my Pathstream Data Analytics training and demonstrates practical Excel analysis used in real-world CRM and retention use cases.
